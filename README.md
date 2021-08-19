@@ -1,2 +1,2 @@
 # hello-world
-thinking space/prcatice
+thinking space/practice
